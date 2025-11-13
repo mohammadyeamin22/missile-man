@@ -1,0 +1,60 @@
+*{
+  margin:0;
+  padding:0; ;
+}
+/* Introduction CSS */
+.parental_introduction{
+  display: flex;
+margin-left:10% ;
+}
+/* Img CSS */
+.container_img img{ 
+  width:300px;
+  height:300px;
+  border-radius:120px;
+}
+/* Img CSS */
+/* Text CSS */
+.container_text{
+  margin-left:130px; 
+}
+.container_text h2{
+  margin-top:150px ;
+  font-weight: 200;
+}
+.container_text h5{
+text-align: right;
+}
+/* Text CSS */
+/* Introduction CSS */
+/* Missile Man CSS */
+.missile{
+  margin-left:120px;
+  margin-top:60px;
+}
+.missile h1{
+margin-bottom:20px;
+}
+.missile p{
+  font-size:17px;
+ font-weight: 500;
+}
+/* Missile Man CSS */
+/* Biography CSS */
+.biographies_text{
+  margin-bottom: 20px;
+}
+  
+/* Biography CSS */
+/* Footer CSS */
+.footer_wikipedia{
+  text-align:right;
+  margin-top: 100px;
+  margin-bottom:30px;
+  margin-right: 25px;
+}
+.footer_wikipedia a{
+  text-decoration:none;
+  color:#4174FE;
+}
+/* Footer CSS */
