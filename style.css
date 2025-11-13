@@ -2,16 +2,21 @@
   margin:0;
   padding:0; ;
 }
+body{
+  border:10px solid #1D1E4C;
+    font-family: inherit;
+}
 /* Introduction CSS */
 .parental_introduction{
   display: flex;
-margin-left:10% ;
+margin-left:97px;
+margin-top: 113px;
 }
 /* Img CSS */
 .container_img img{ 
-  width:300px;
-  height:300px;
-  border-radius:120px;
+  width:314px;
+  height:392px;
+  border-radius:170px;
 }
 /* Img CSS */
 /* Text CSS */
@@ -20,10 +25,13 @@ margin-left:10% ;
 }
 .container_text h2{
   margin-top:150px ;
-  font-weight: 200;
+  font-weight: 500;
+  font-size:48px;
 }
 .container_text h5{
 text-align: right;
+font-weight: 500;
+font-size: 24px;
 }
 /* Text CSS */
 /* Introduction CSS */
@@ -34,10 +42,13 @@ text-align: right;
 }
 .missile h1{
 margin-bottom:20px;
+font-weight: 500px;
+font-size:70px;
 }
 .missile p{
   font-size:17px;
  font-weight: 500;
+ line-height: 22px;
 }
 /* Missile Man CSS */
 /* Biography CSS */
