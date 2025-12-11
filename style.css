@@ -50,6 +50,11 @@ font-size:70px;
  font-weight: 500;
  line-height: 22px;
 }
+.missile li{
+    font-size:17px;
+ font-weight: 500;
+ line-height: 22px;
+}
 /* Missile Man CSS */
 /* Biography CSS */
 .biographies_text{
