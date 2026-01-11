@@ -2,6 +2,9 @@
   margin:0;
   padding:0; ;
 }
+/* => Selector  */
+/* Property: value; */
+/* => Declaration */
 body{
   border:10px solid #1D1E4C;
     font-family: inherit;
